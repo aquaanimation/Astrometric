@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Astrometric</string>
+    <string name="question1">1. What would you be if you were born on 13th of November</string>
+    <string name="question1_choice1">Gemini</string>
+    <string name="question1_choice2">Cancer</string>
+    <string name="question1_choice3">Scorpio</string>
+
+    <string name="question2">2. The __________ system was developed in Babylonia, some 2,500 years ago, during the "Age of Aries".(fill in the sentence)</string>
+
+    <string name="question3">3. Which of the following Sanskrit names are not in the list of the twelve signs of modern zodiac?</string>
+    <string name="question3_choice1">Karkaṭa</string>
+    <string name="question3_choice2">Makara</string>
+    <string name="question3_choice3">Ayanamsa</string>
+    <string name="question3_choice4">Munjaala</string>
+
+    <string name="question4">4. The most common zodiac sign in the US is Capricorn</string>
+    <string name="question4_choice1">True</string>
+    <string name="question4_choice2">False</string>
+
+
+    <string name="submit_answers">Count your Astrometric</string>
+</resources>
